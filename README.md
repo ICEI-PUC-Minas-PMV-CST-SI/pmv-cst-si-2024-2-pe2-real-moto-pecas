@@ -360,5 +360,7 @@ O processo de planejamento e desenvolvimento da topologia de rede incluiu as seg
 - Testes de desempenho da rede para assegurar sua eficiência e velocidade.
 - Auditorias de segurança para identificar e mitigar possíveis vulnerabilidades.
 - Monitoramento contínuo para garantir que a rede atenda aos requisitos de confiabilidade e segurança.
+- ![image](https://github.com/user-attachments/assets/bdddd3ee-4539-419a-ab95-2fc82c84c291)
+
 
 
