@@ -353,6 +353,8 @@ O processo de planejamento e desenvolvimento da topologia de rede incluiu as seg
 - Implementação da topologia de rede escolhida, garantindo que todos os dispositivos estejam conectados de forma eficiente.
 - Configuração de dispositivos de rede, incluindo switches, roteadores e pontos de acesso.
 - Configuração de medidas de segurança, como firewalls e sistemas de autenticação.
+- ![image](https://github.com/user-attachments/assets/fc4fbb84-eaa1-4a1a-a599-48cc0f6376be)
+
 
 #### Avaliação:
 - Testes de desempenho da rede para assegurar sua eficiência e velocidade.
