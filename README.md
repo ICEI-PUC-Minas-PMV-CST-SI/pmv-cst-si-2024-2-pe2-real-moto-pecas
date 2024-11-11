@@ -346,6 +346,8 @@ O processo de planejamento e desenvolvimento da topologia de rede incluiu as seg
 - Análise das necessidades da organização.
 - Identificação dos requisitos de segurança e desempenho.
 - Escolha das tecnologias de rede e equipamentos necessários.
+- ![image](https://github.com/user-attachments/assets/b754a03f-cafa-482c-af54-67c17ead38f9)
+
 
 #### Desenvolvimento:
 - Implementação da topologia de rede escolhida, garantindo que todos os dispositivos estejam conectados de forma eficiente.
