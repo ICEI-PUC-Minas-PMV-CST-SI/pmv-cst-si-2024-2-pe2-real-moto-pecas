@@ -319,7 +319,8 @@ As redes de computadores interconectam dispositivos como computadores, servidore
 ### 6.2 Identificação da Topologia de Rede da Organização
 Para a Real Moto Peças é utilizada uma combinação de topologia estrela e topologia barramento, que permite flexibilidade e eficiência no tráfego de dados e na segurança dos pontos de acesso.
 
-**Diagrama da Topologia de Rede: Híbrida Estrela-Barramento**
+**Diagrama da Topologia de Rede: Híbrida Estrela-Barramento** 
+docs/1.jpg
 
 Na Real Moto Peças, utiliza-se a topologia de estrela e barramento para otimizar a comunicação e o fluxo de dados. A topologia em estrela conecta todos os computadores a um ponto central, facilitando o gerenciamento e a detecção de falhas. Já a topologia em barramento permite que todos os dispositivos compartilhem um único cabo para a transmissão de dados, tornando a estrutura mais simples e econômica. 
 
