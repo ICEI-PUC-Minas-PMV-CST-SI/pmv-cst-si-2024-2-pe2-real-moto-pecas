@@ -76,27 +76,36 @@ Fonte: tamanho 12. Espaço entre linhas simples.
 
 ### 1. INTRODUÇÃO (Etapa 4)  
 
-Contextualize com informações sobre a organização e justifique sobre o processo de segurança da informação (apresente a demanda em no máximo três parágrafos).  
-Faça uma síntese dos principais pontos do diagnóstico.
+A Real Moto Peças é uma empresa de grande porte que se destaca na distribuição de autopeças, acessórios e moto peças em todo o território nacional. Fundada em 1962 em Uberlândia, Minas Gerais, a empresa expandiu significativamente, integrando o Grupo Real  junto com a Disape e a Mide Parts. Com mais de 24 filiais e cerca de 1.800 colaboradores, a Real Moto Peças tem como missão prover as melhores soluções e inovações para a mobilidade de pessoas e produtos.
+
+Diante do crescimento e da complexidade das operações, a segurança da informação tornou-se uma prioridade estratégica. A empresa enfrenta desafios como Shadow IT, baixa adesão à cultura de segurança e a mitigação de riscos de acesso à rede via VPN. Para abordar esses problemas, a Real Moto Peças adota uma Política de Segurança da Informação abrangente e tecnologias avançadas, como Fortinet FortiGate, CrowdStrike e Rapid7, além de processos de segurança como Zero Trust e treinamentos de equipes. A educação dos usuários sobre cibersegurança é reforçada através de gamificação.
+
+    Síntese dos Principais Pontos do Diagnóstico
+
+ Problemas de Segurança: Identificação de Shadow IT, baixa adesão à cultura de segurança, e riscos associados ao acesso à rede via VPN.
+Tecnologias e Processos: Uso de tecnologias como Fortinet FortiGate, CrowdStrike e Rapid7, e adoção de processos como Zero Trust e treinamento contínuo das equipes.
+ Educação e Cultura: Implementação de estratégias de educação sobre cibersegurança através de gamificação para melhorar a adesão à cultura de segurança.
+Segurança de Rede: Melhoria da segurança de rede com a utilização do ClearPass.
+ Política de Segurança: Desenvolvimento e aplicação de uma Política de Segurança da Informação abrangente para todos os colaboradores, fornecedores e parceiros.
+Estas ações visam fortalecer a postura de segurança da Real Moto Peças, assegurando a proteção dos dados e a confiança dos clientes, ao mesmo tempo em que suportam o crescimento sustentável e a inovação no mercado de reposição automotiva.
+
 
 ---
 
 ### 2. OBJETIVOS  
 
 #### 2.1 Objetivo Geral  
-- Apresentar a visão dos processos de negócios organizacionais que envolvem a segurança das informações organizacionais.
+Apresentar a visão dos processos de negócios organizacionais que envolvem a segurança das informações organizacionais.
 
 #### 2.2 Objetivos Específicos  
-- Identificar e analisar o contexto do negócio  
-- Classificar os itens das principais normas de segurança da informação  
-- Mapear e modelar os processos de negócios da empresa  
-- Modelar um sistema de informação baseado nos processos da empresa  
-- Construir uma topologia de rede para a empresa  
-- Avaliar o impacto cultural e religioso na empresa  
-- Desenvolver um projeto de intervenção da estrutura organizacional utilizando métodos ágeis de gerência de projetos  
-- Propor melhorias no processo de segurança da informação  
-
-**Observação**: A fim de desenvolver um planejamento eficiente sobre a definição do problema e objetivos do trabalho, fique atento às informações que serão levantadas. Pois um levantamento de informações ruins levará a análises ruins. Então, busque variáveis confiáveis para o desenvolvimento do projeto. 
+Identificar e analisar o contexto do negócio
+Classificar os itens das principais normas de segurança da informação. 
+Mapear e modelar os processos de negócios da empresa. 
+Modelar um sistema de informação baseado nos processos da empresa. 
+Construir uma topologia de rede para a empresa. 
+Avaliar o impacto cultural, religião na empresa em questão. 
+Desenvolver um projeto de intervenção da estrutura organizacional utilizando métodos ágeis de gerência de projetos.
+Propor melhorias no processo de segurança da informação
 
 ---
 
